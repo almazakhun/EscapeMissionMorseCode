@@ -18,7 +18,7 @@ The purpose of the application is to establish and conduct communication with mi
 - <b>UI FLow Coding IDE</b>
 <h2>Program walk-through:</h2>
 
-- [Project Report](https://github.com/almazakhun/CourseSchedulerGuiApp/blob/main/Interactive%20Flow-Chart/CMPSC%20487w%20-%20Final%20Report.pdf)
+- [Project Report](https://github.com/almazakhun/EscapeMissionMorseCode/blob/main/IST440SP22Team3_DeploymentDocument.pdf)
 
 <p align="center"> <br/>
 <img src="https://i.imgur.com/w4REydT.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
